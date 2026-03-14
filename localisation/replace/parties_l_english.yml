@@ -1,0 +1,63 @@
+﻿l_english:
+
+#Amerika
+ USA_democratic_party:0 "Nod-krai Parlement"
+ USA_republican_party:0 "Nod-krai Parlement"
+ USA_fascism_party:0 "Silver Legion Nod-krai"
+ USA_communism_party:0 "United Nod-krai"
+ 
+ #Verenigd koninkrijk
+ ENG_communism_party:0 "Yoimiya's Party"
+ ENG_communism_party_long: "Yoimiya's Party"
+ ENG_democratic_party:0 "Klee's Party
+ ENG_fascism_party:0 "Arlecchino's Party"
+ ENG_neutrality_party_kings_party:0 "King's Party"
+ ENG_neutrality_party_kings_party_long: "the King's Party"
+ ENG_neutrality_party_queens_party:0 "Queen's Party"
+ ENG_neutrality_party_queens_party_long: "the Queen's Party"
+ ENG_neutrality_party: "House of Windsor"
+ ENG_neutrality_party_long: "the House of Windsor"
+ 
+ #Duitsland
+ GER_fascism_party:0 "NSMAP"
+ GER_fascism_party_long:0 "Nationalsozialistische Monstadt Arbeiterpartei"
+ GER_democratic_party:1 "Freies Monstadtt"
+ GER_democratic_party_long: "Freies Monstadt"
+ GER_democratic_socialist_party: "Freies Monstadt"
+ GER_democratic_socialist_party_long: "Freies Monstadt"
+ GER_neutrality_party: "Favonius"
+ GER_neutrality_party_long: "Die Könige von Favonius"
+ GER_communism_party:0 "VM"
+ GER_communism_party_long: "Volksparteiolkspartei Monstadtt"
+ 
+ #Japan
+ JAP_communism_party:0 "Kakumei tō inazuma"
+ JAP_democratic_party:0 "Yunaiteddo inazuma"
+ JAP_fascism_party:0 "Inazuma o yobe"
+ JAP_neutrality_party: "Shōgun no gyōretsu"
+ JAP_neutrality_party_long: "Shōgun no gyōretsu"
+ 
+ #Italië
+ ITA_communism_party:1 "PPW"
+ ITA_communism_party_long:0 "partito popolare di windrise"
+ ITA_democratic_party:1 "WG"
+ ITA_democratic_party_long:0 "Windrise gratuito"
+ ITA_fascism_party:1 "PFW"
+ ITA_fascism_party_long:0 "Il partito fascista di Windrise"
+ ITA_neutrality_party:1 "CRW"
+ ITA_neutrality_party_long:0 "Il corteo reale di Windrise"
+ 
+ #Frankrijk
+ FRA_communism_party:0 "parti révolutionnaire Fontaine"
+ FRA_democratic_party:0 "Parti de Furina"
+ FRA_fascism_party:0 "Mouvement Fontaine"
+ FRA_neutrality_party: "Action Fontaine"
+ 
+ #Sovjet unie
+ SOV_communism_party:0 "All-Union Communist Party"
+ SOV_communism_party_russian:0 "CPL(B)"
+ SOV_communism_party_russian_long:0 "Коммунистическая партия Лиюэ (Huo Tao)"
+ SOV_democratic_party:0 "Свободный Лиюэ"
+ SOV_fascism_party:0 "ML"
+ SOV_fascism_party_russian:0 "ML"
+ SOV_fascism_party_russian_long:0 "движение Лиюэ"

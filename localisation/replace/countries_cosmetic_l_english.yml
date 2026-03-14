@@ -1,0 +1,78 @@
+﻿l_english:
+
+#Duitsland
+ GER_fascism:0 "Nationalist State of Mondstadt"
+ GER_fascism_DEF:0 "Nationalist State of Mondstadt"
+ GER_german_monarchy_democratic: "Republic of Mondstadt"
+ GER_german_monarchy_democratic_DEF: "Republic of Mondstadt"
+ GER_german_monarchy_liberal_democratic: "Republic of Mondstadt"
+ GER_german_monarchy_liberal_democratic_DEF: "Republic of Mondstadt"
+ GER_german_monarchy_conservative_democratic: "Republic of Mondstadt"
+ GER_german_monarchy_conservative_democratic_DEF: "Republic of Mondstadt
+ GER_german_kaiserreich_neutrality: "Favonius Order"
+ GER_german_kaiserreich_neutrality_DEF: "Favonius Order"
+ GER_peoples_republic_communism: "The Peoples Republic of Mondstadt"
+ GER_peoples_republic_communism_DEF: "The Peoples Republic of Mondstadt"
+ GER_provisional_gvt_neutrality:0 "United Favonius Order"
+ GER_provisional_gvt_neutrality_DEF: "United Favonius Order"
+ reunified_germany_democratic:0 "Republic of Mondstadt"
+ reunified_germany_democratic_DEF:0 "Republic of Mondstadt"
+ GER_german_empire_neutrality:0 "Kingdom of Mondstadt"
+ GER_german_empire_neutrality_DEF:0 "Kingdom of Mondstadt
+ GER_greater_german_reich_fascism: "Greater Mondstadt"
+ GER_greater_german_reich_fascism_DEF: "the Greater Mondstadt"
+ GER_greater_german_reich_fascism_ADJ: "Mondstadtian"
+ 
+ #Sovjet Unie
+ SOV_communism:0 "Socialist Union of Liyue"
+ SOV_communism_DEF:0 "Socialist Union of Liyue"
+ SOV_left_opposition_communism:0 "Free Liyue"
+ SOV_left_opposition_communism_def:0 "Free Liyue"
+ 
+ #japan
+ JAP_fascism:0 "Empire of Inazuma"
+ JAP_fascism_DEF:0 "Empire of Inazuma"
+ JAP_communist:0 "United Inazuma"
+ JAP_communist_DEF:0 "United Inazuma"
+ JAP_democratic:0 "Republic Inazuma"
+ JAP_democratic_DEF:0 "Republic Inazuma"
+ 
+ JAP_showa_restoration_neutrality:0 "Empire of Inazuma"
+ JAP_showa_restoration_democratic:0 "Republic Inazuma"
+ JAP_showa_restoration_communism:0 "United Inazuma"
+ JAP_showa_restoration_fascism_DEF:0 "Empire of Inazuma"
+ JAP_showa_restoration_neutrality_DEF:0 "Empire of Inazuma"
+ JAP_showa_restoration_democratic_DEF:0 "Republic Inazuma"
+ JAP_showa_restoration_communism_DEF:0 "United Inazuma"
+ 
+ #verenigd Koninkrijk
+ ENG_democratic:0 "United Kingdom of Tavat"
+ ENG_democratic_DEF:0 "United Kingdom of Tavat"
+ ENG_communist:0 "Union of Tavat"
+ ENG_communist_DEF:0 "Union of Tavat"
+ ENG_fasist:0 "Empire of Tavat"
+ ENG_fasist_DEF:0 "Empire of Tavat"
+ 
+ #Italië
+ ITA_fascism:0 "Nationalist state of Windrise"
+ ITA_fascism_DEF:0 "Nationalist state of Windrise"
+ ITA_democratic:0 "Kingdom of Windrise"
+ ITA_democratic_DEF:0 "Kingdom of Windrise"
+ ITA_communism:0 "Socialist Republic of Windrise"
+ ITA_communism_DEF:0 "the Socialist Republic of Windrise"
+ 
+ #Amerika
+ USA_democratic:0 "Nod-Krai"
+ USA_democratic_DEF:0 "Nod-Krai"
+ USA_comunism:0 "Union of Nod-Krai
+ USA_comunism_DEF: "Union of Nod-Krai"
+ USA_fascism:0 "Snezhnaya"
+ USA_fascism_DEF: "Snezhnaya"
+ 
+ #Frankrijk
+ FRA_democratic:0 "Republic of Fontaine"
+ FRA_democratic_DEF:0 "Republic of Fontaine"
+ FRA_fascism:0 "New Fontaine"
+ FRA_fascism_DEF:0 "New Fontaine"
+ FRA_communism:0 "Socialist State of Fontaine"
+ FRA_communism_DEF:0 "Socialist State of Fontaine"
