@@ -21,14 +21,14 @@
  #Duitsland
  GER_fascism_party:0 "NSMAP"
  GER_fascism_party_long:0 "Nationalsozialistische Monstadt Arbeiterpartei"
- GER_democratic_party:1 "Freies Monstadtt"
+ GER_democratic_party:1 "Freies Monstadt"
  GER_democratic_party_long: "Freies Monstadt"
  GER_democratic_socialist_party: "Freies Monstadt"
  GER_democratic_socialist_party_long: "Freies Monstadt"
  GER_neutrality_party: "Favonius"
  GER_neutrality_party_long: "Die Könige von Favonius"
  GER_communism_party:0 "VM"
- GER_communism_party_long: "Volksparteiolkspartei Monstadtt"
+ GER_communism_party_long: "Volksparteiolkspartei Monstadt"
  
  #Japan
  JAP_communism_party:0 "Kakumei tō inazuma"
